@@ -2,7 +2,8 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='다리를 지나는 트럭'/>
-        <page name='프린터'/>
         <page name='기능개발'/>
+        <page name='탑'/>
+        <page name='프린터'/>
     </pages>
 </playground>
