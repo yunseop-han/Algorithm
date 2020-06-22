@@ -5,6 +5,7 @@
         <page name='기능개발'/>
         <page name='프린터'/>
         <page name='탑'/>
-        <page name='모의고사'/>
+        <page name='모의고사'/>
+        <page name='오픈채팅방'/>
     </pages>
 </playground>
