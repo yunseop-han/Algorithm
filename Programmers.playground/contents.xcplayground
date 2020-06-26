@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios'>
     <pages>
-        <page name='오픈채팅방'/>
-        <page name='스킬트리'/>
+        <page name='예산'/>
         <page name='기능개발'/>
         <page name='다리를 지나는 트럭'/>
         <page name='모의고사'/>
+        <page name='스킬트리'/>
+        <page name='오픈채팅방'/>
         <page name='탑'/>
         <page name='프린터'/>
     </pages>
