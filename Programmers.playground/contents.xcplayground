@@ -7,7 +7,10 @@
         <page name='탑'/>
         <page name='모의고사'/>
         <page name='오픈채팅방'/>
-        <page name='문자열 압축'/>
+        <page name='문자열 압축'/>
+        <page name='최솟값 만들기'/>
+        <page name='영어 끝말잇기'/>
+        <page name='괄호 변환'/>
         <page name='스킬트리'/>
         <page name='예산'/>
     </pages>
